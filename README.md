@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Katarina Petrović
-and am a 4th year student at the Faculty of Technical Sciences.
-- 🌱 I’m currently learning ...
+- Description: I am a diligent forth-year student at the Faculty of Technical Sciences in Novi Sad, well-versed in a broad range of subjects offered by the education system. Experienced in organizing projects within smaller teams.
 - 📫 My email: katarina.petrovic02@gmail.com
 
 <!---
